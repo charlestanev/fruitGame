@@ -51,7 +51,7 @@ $(function () {
     $("#fruit1").hide("explode", 500); //slice fruit
 
     //send new fruit
-    setTimeout(startAction, 500);
+    setTimeout(startAction, 600);
   });
 
   //functions
